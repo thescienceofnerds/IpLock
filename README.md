@@ -12,5 +12,5 @@ It will not show other people's ip, only yours. Even so, do not download this so
 ================================================USE=========================
 simply run the application, and wait for the list/singular ips to appear.
 the first ip is the wireless LAN ipv4, and the second is your ETH0 ipv4.
-Most of thed time, the first ip is your pc ip.
+Most of the time, the first ip is your pc ip.
 after use, the application will exit automaticaly.
